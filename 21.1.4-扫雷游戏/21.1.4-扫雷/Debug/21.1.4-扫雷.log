@@ -1,0 +1,35 @@
+﻿  game扫雷.c
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(133): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(133): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(133): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(133): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(143): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(143): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(143): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(143): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(154): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(154): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(154): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(154): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(166): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(166): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(166): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(166): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(177): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(177): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(177): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(177): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(191): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(191): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(191): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(191): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(200): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(200): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(200): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(200): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(211): warning C4047: “函数”:“char (*)[30]”与“char [30]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(211): warning C4024: “openboard1”: 形参和实参 1 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(211): warning C4047: “函数”:“int (*)[32]”与“int [32]”的间接级别不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(211): warning C4024: “openboard1”: 形参和实参 2 的类型不同
+c:\users\zx\source\repos\c\21.1.4-扫雷游戏\21.1.4-扫雷\game扫雷.c(309): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  21.1.4-扫雷.vcxproj -> C:\Users\zx\source\repos\c\21.1.4-扫雷游戏\Debug\21.1.4-扫雷.exe
